@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Management on My place to put things</title>
-    <link>http://localhost:1313/tags/management/</link>
+    <link>https://tomrenner.com/tags/management/</link>
     <description>Recent content in Management on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomrenner.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>XTC discusses Basecamp&#39;s Shape-Up</title>
-      <link>http://localhost:1313/posts/xtc-basecamp-shape-up/</link>
+      <link>https://tomrenner.com/posts/xtc-basecamp-shape-up/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/xtc-basecamp-shape-up/</guid>
+      <guid>https://tomrenner.com/posts/xtc-basecamp-shape-up/</guid>
       <description>&lt;p&gt;Last week I facilitated a session at &lt;a href=&#34;https://www.meetup.com/eXtreme-Tuesday-Club-XTC/&#34;&gt;XTC&lt;/a&gt;, where we discussed the new product development framework from Basecamp, &lt;a href=&#34;https://basecamp.com/shapeup&#34;&gt;Shape Up&lt;/a&gt;, led by &lt;a href=&#34;https://twitter.com/thomasankcorn&#34;&gt;Thomas Ankorn&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It was a really interesting discussion with people exploring the ideas openly, guided by questions posed by Thomas to get the conversation started.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve summarised the points that came up in the discussion, reconstructed from memory and the collected post-its of scribbles at the end of the evening.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-what-problems-does-this-solve&#34;&gt;1. What problems does this solve?&lt;/h3&gt;&#xA;&lt;p&gt;We started by looking at the positives of the framework, trying to identify strengths that would help mitigate problems we have encountered in our own teams.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Temple of Fail</title>
-      <link>http://localhost:1313/posts/temple-of-faile/</link>
+      <link>https://tomrenner.com/posts/temple-of-faile/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/temple-of-faile/</guid>
+      <guid>https://tomrenner.com/posts/temple-of-faile/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;DISCLAIMER:&lt;/strong&gt; &lt;em&gt;This was not my idea - I picked it up from Jane Nicholson at an &lt;a href=&#34;https://www.meetup.com/eXtreme-Tuesday-Club-XTC/&#34;&gt;XTC&lt;/a&gt; event, who was introduced to it by Jess Gilbert (who in turn, I am told, got it from someone else). This post is just explaining why I believe it can be a useful exercise, not any truly original thinking!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;One of the things that is really important to me is that my team and I keep learning at work. As such, fostering a learning environment is kinda key. I think we do that pretty well at Haplo &amp;ndash; we have hired nearly exclusively early-career developers to our tech team for several years now, and one of the key points most hires mention as to why they join is that they feel it&amp;rsquo;s a good place to learn quickly, with the requisite support early on in their career.&lt;/p&gt;</description>
     </item>
   </channel>

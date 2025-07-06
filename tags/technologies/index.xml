@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologies on My place to put things</title>
-    <link>http://localhost:1313/tags/technologies/</link>
+    <link>https://tomrenner.com/tags/technologies/</link>
     <description>Recent content in Technologies on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomrenner.com/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cull your dependencies</title>
-      <link>http://localhost:1313/posts/cull-your-dependencies/</link>
+      <link>https://tomrenner.com/posts/cull-your-dependencies/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cull-your-dependencies/</guid>
+      <guid>https://tomrenner.com/posts/cull-your-dependencies/</guid>
       <description>&lt;p&gt;Anyone  writing code professionally in December 2021 will remember the &lt;a href=&#34;https://www.wired.com/story/log4j-flaw-hacking-internet/&#34;&gt;&amp;ldquo;fun&amp;rdquo;&lt;/a&gt; &lt;a href=&#34;https://www.bbc.com/news/technology-59669297&#34;&gt;of&lt;/a&gt; &lt;a href=&#34;https://www.abc.net.au/news/2021-12-15/log4j-cyber-security-flaw-which-has-online-experts-worried/100703290&#34;&gt;the&lt;/a&gt; &lt;a href=&#34;https://www.wsj.com/articles/hackers-exploit-log4j-flaw-at-belgian-defense-ministry-11640020439?mod=article_inline&#34;&gt;Log4J&lt;/a&gt; &lt;a href=&#34;https://www.computerweekly.com/news/252510860/What-is-Log4Shell-and-why-are-we-panicking-about-it&#34;&gt;vulnerability&lt;/a&gt;. For those that weren&amp;rsquo;t - this was a critical security error that allowed attackers to run any code they wanted on your servers. The root cause was a logging library, Log4J, that is used by most projects that are writting in Java.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s usually used to write code something like:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;log.info(&amp;quot;Process completed successfully&amp;quot;);&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;which will then appear in your logs, allowing you to track your application&amp;rsquo;s behaviour. Pretty innocuous stuff.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Should we welcome or fear the Metaverse?</title>
-      <link>http://localhost:1313/posts/should-we-welcome-or-fear-the-metaverse/</link>
+      <link>https://tomrenner.com/posts/should-we-welcome-or-fear-the-metaverse/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/should-we-welcome-or-fear-the-metaverse/</guid>
+      <guid>https://tomrenner.com/posts/should-we-welcome-or-fear-the-metaverse/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Kit Wilson writes in The Spectator about Facebook’s new venture into the Metaverse, a concept that most of us probably hadn’t heard of until last week. To layout the roadmap for what our journey into this new digital reality might look like, Kit joins the podcast along with Tom Renner, a software engineer for NavVis. (12:55)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;style&gt;&#xA;  .iframe-container {&#xA;    position: relative;&#xA;    overflow: hidden;&#xA;    width: 100%;&#xA;    padding-top: 100%;&#xA;  }&#xA;&#xA;  .responsive-iframe {&#xA;    position: absolute;&#xA;    top: 0;&#xA;    left: 0;&#xA;    bottom: 0;&#xA;    right: 0;&#xA;    width: 100%;&#xA;    height: 95;&#xA;    display: block;&#xA;    background-color: transparent;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div class=&#34;iframe-container&#34;&gt;&#xA;  &lt;iframe class=&#34;responsive-iframe&#34; src=&#39;https://embeds.audioboom.com/posts/7974013/embed?v=202301&#39;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Why am I doing this again?</title>
-      <link>http://localhost:1313/posts/why-am-i-doing-this-again/</link>
+      <link>https://tomrenner.com/posts/why-am-i-doing-this-again/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/why-am-i-doing-this-again/</guid>
+      <guid>https://tomrenner.com/posts/why-am-i-doing-this-again/</guid>
       <description>&lt;h3 id=&#34;why-do-i-want-to-have-my-own-site&#34;&gt;Why do I want to have my own site?&lt;/h3&gt;&#xA;&lt;p&gt;Narcissism mostly. I found the domain was available, decided as a self-respecting developer I should probably buy it. But then there&amp;rsquo;s no point owning a domain if you don&amp;rsquo;t put something there. So that was it really - I had to I had to get my act together and actually write the thing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;i-enjoy-developing&#34;&gt;I enjoy developing&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a person who finds it hard to devote time outside of office hours to write code. I suspect it&amp;rsquo;s because I hate fun. Whatever the reason, if I&amp;rsquo;m not doing something &lt;em&gt;useful&lt;/em&gt;, I won&amp;rsquo;t bother. So having decided I would like to code more, I had to find something useful to write.&lt;/p&gt;</description>
     </item>
   </channel>
