@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media on My place to put things</title>
-    <link>https://tomrenner.com/tags/social-media/</link>
+    <link>http://localhost:1313/tags/social-media/</link>
     <description>Recent content in Social Media on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tomrenner.com/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Should we welcome or fear the Metaverse?</title>
-      <link>https://tomrenner.com/posts/should-we-welcome-or-fear-the-metaverse/</link>
+      <link>http://localhost:1313/posts/should-we-welcome-or-fear-the-metaverse/</link>
       <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/should-we-welcome-or-fear-the-metaverse/</guid>
+      <guid>http://localhost:1313/posts/should-we-welcome-or-fear-the-metaverse/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Kit Wilson writes in The Spectator about Facebook’s new venture into the Metaverse, a concept that most of us probably hadn’t heard of until last week. To layout the roadmap for what our journey into this new digital reality might look like, Kit joins the podcast along with Tom Renner, a software engineer for NavVis. (12:55)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;style&gt;&#xA;  .iframe-container {&#xA;    position: relative;&#xA;    overflow: hidden;&#xA;    width: 100%;&#xA;    padding-top: 100%;&#xA;  }&#xA;&#xA;  .responsive-iframe {&#xA;    position: absolute;&#xA;    top: 0;&#xA;    left: 0;&#xA;    bottom: 0;&#xA;    right: 0;&#xA;    width: 100%;&#xA;    height: 95;&#xA;    display: block;&#xA;    background-color: transparent;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;div class=&#34;iframe-container&#34;&gt;&#xA;  &lt;iframe class=&#34;responsive-iframe&#34; src=&#39;https://embeds.audioboom.com/posts/7974013/embed?v=202301&#39;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Twitter network graphing with Gephi</title>
-      <link>https://tomrenner.com/posts/twitter-graphing-with-gephi/</link>
+      <link>http://localhost:1313/posts/twitter-graphing-with-gephi/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/twitter-graphing-with-gephi/</guid>
+      <guid>http://localhost:1313/posts/twitter-graphing-with-gephi/</guid>
       <description>&lt;p&gt;Gephi is a piece of software for visualising graph networks. It&amp;rsquo;s a powerful tool, and to use it fully requires significant domain knowledge that I don&amp;rsquo;t possess, but fortunately it&amp;rsquo;s still fascinating to play around with as an amateur!&lt;/p&gt;&#xA;&lt;p&gt;As a techie, to me the obvious networks to graph are those created by the big Social Networks - YouTube, Facebook, etc. It&amp;rsquo;s not hugely surprising to find that mostly these graphs mostly aren&amp;rsquo;t available for querying, but excitingly there is a plugin that allows you to stream in live data from Twitter.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How-To on My place to put things</title>
-    <link>https://tomrenner.com/tags/how-to/</link>
+    <link>http://localhost:1313/tags/how-to/</link>
     <description>Recent content in How-To on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 28 Apr 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tomrenner.com/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DORA? I barely know her!</title>
-      <link>https://tomrenner.com/posts/dora-i-barely-know-her/</link>
+      <link>http://localhost:1313/posts/dora-i-barely-know-her/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/dora-i-barely-know-her/</guid>
+      <guid>http://localhost:1313/posts/dora-i-barely-know-her/</guid>
       <description>&lt;h2 id=&#34;coming-to-grips-with-devops-metrics&#34;&gt;Coming to grips with DevOps metrics&lt;/h2&gt;&#xA;&lt;p&gt;In my team we have been considering ways to monitor our own performance, and finding some ways to contextualise our ongoing process and quality improvements. Like many other teams, we&amp;rsquo;ve landed on the &lt;a href=&#34;https://www.blueoptima.com/blog/how-to-measure-devops-success-why-dora-metrics-are-important&#34;&gt;DORA metrics&lt;/a&gt; as a good way of doing this.  These four key metrics are an easy way to understand what adjectives like &amp;ldquo;maintainable&amp;rdquo;, &amp;ldquo;reliable&amp;rdquo;, and &amp;ldquo;efficient&amp;rdquo; mean in practice when applied to software and teams, and the provide a way of comparing team performance across teams and over time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Twitter network graphing with Gephi</title>
-      <link>https://tomrenner.com/posts/twitter-graphing-with-gephi/</link>
+      <link>http://localhost:1313/posts/twitter-graphing-with-gephi/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/twitter-graphing-with-gephi/</guid>
+      <guid>http://localhost:1313/posts/twitter-graphing-with-gephi/</guid>
       <description>&lt;p&gt;Gephi is a piece of software for visualising graph networks. It&amp;rsquo;s a powerful tool, and to use it fully requires significant domain knowledge that I don&amp;rsquo;t possess, but fortunately it&amp;rsquo;s still fascinating to play around with as an amateur!&lt;/p&gt;&#xA;&lt;p&gt;As a techie, to me the obvious networks to graph are those created by the big Social Networks - YouTube, Facebook, etc. It&amp;rsquo;s not hugely surprising to find that mostly these graphs mostly aren&amp;rsquo;t available for querying, but excitingly there is a plugin that allows you to stream in live data from Twitter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Temple of Fail</title>
-      <link>https://tomrenner.com/posts/temple-of-faile/</link>
+      <link>http://localhost:1313/posts/temple-of-faile/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/temple-of-faile/</guid>
+      <guid>http://localhost:1313/posts/temple-of-faile/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;DISCLAIMER:&lt;/strong&gt; &lt;em&gt;This was not my idea - I picked it up from Jane Nicholson at an &lt;a href=&#34;https://www.meetup.com/eXtreme-Tuesday-Club-XTC/&#34;&gt;XTC&lt;/a&gt; event, who was introduced to it by Jess Gilbert (who in turn, I am told, got it from someone else). This post is just explaining why I believe it can be a useful exercise, not any truly original thinking!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;One of the things that is really important to me is that my team and I keep learning at work. As such, fostering a learning environment is kinda key. I think we do that pretty well at Haplo &amp;ndash; we have hired nearly exclusively early-career developers to our tech team for several years now, and one of the key points most hires mention as to why they join is that they feel it&amp;rsquo;s a good place to learn quickly, with the requisite support early on in their career.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Setting up a bottom-end Chromebook for development</title>
-      <link>https://tomrenner.com/posts/setting-up-chromebook/</link>
+      <link>http://localhost:1313/posts/setting-up-chromebook/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/setting-up-chromebook/</guid>
+      <guid>http://localhost:1313/posts/setting-up-chromebook/</guid>
       <description>&lt;p&gt;I like being able to code wherever I am. &lt;em&gt;&amp;ldquo;Unfortunately&amp;rdquo;&lt;/em&gt;, my 15&amp;quot; laptop bought to run simulations for my degree still runs like a dream, so I can&amp;rsquo;t really justify buying myself a replacement for it. So instead, just over a year ago, I decided to get something that is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lightweight&lt;/li&gt;&#xA;&lt;li&gt;Cheap&lt;/li&gt;&#xA;&lt;li&gt;Allows me to code on the go&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Looking around a bit, a budget Chromebook seemed like a good choice. I settled on an &lt;a href=&#34;https://www.asus.com/uk/Laptops/ASUS_Chromebook_C201/&#34;&gt;Asus Chromebook C201&lt;/a&gt;, which cost me £190. It has 4GB of RAM, a 16GB SSD, and weighs under a kilo.&lt;/p&gt;</description>
     </item>
   </channel>
