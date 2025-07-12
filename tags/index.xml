@@ -6,8 +6,22 @@
     <description>Recent content in Tags on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomrenner.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://tomrenner.com/tags/ai/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomrenner.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologies</title>
+      <link>https://tomrenner.com/tags/technologies/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomrenner.com/tags/technologies/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Culture</title>
       <link>https://tomrenner.com/tags/culture/</link>
@@ -27,13 +41,6 @@
       <link>https://tomrenner.com/tags/development-processes/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://tomrenner.com/tags/development-processes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technologies</title>
-      <link>https://tomrenner.com/tags/technologies/</link>
-      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/tags/technologies/</guid>
       <description></description>
     </item>
     <item>

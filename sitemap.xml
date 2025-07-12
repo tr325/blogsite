@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomrenner.com/tags/culture/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
+    <loc>https://tomrenner.com/tags/ai/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomrenner.com/posts/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/tags/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/tags/technologies/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/posts/llm-inevitabilism/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/tags/culture/</loc>
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomrenner.com/posts/saying-the-quiet-part-out-loud/</loc>
@@ -14,19 +29,10 @@
     <loc>https://tomrenner.com/tags/self-improvement/</loc>
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomrenner.com/tags/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomrenner.com/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tomrenner.com/posts/cull-your-dependencies/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomrenner.com/tags/development-processes/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomrenner.com/tags/technologies/</loc>
     <lastmod>2022-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomrenner.com/posts/does-the-software-industry-learn/</loc>
@@ -74,7 +80,7 @@
     <loc>https://tomrenner.com/posts/xtc-basecamp-shape-up/</loc>
     <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomrenner.com/posts/temple-of-faile/</loc>
+    <loc>https://tomrenner.com/posts/temple-of-fail/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomrenner.com/posts/efficiency-is-bad-for-your-health/</loc>
