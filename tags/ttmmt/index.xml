@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI on My place to put things</title>
-    <link>https://tomrenner.com/tags/ai/</link>
-    <description>Recent content in AI on My place to put things</description>
+    <title>TTmmT on My place to put things</title>
+    <link>https://tomrenner.com/tags/ttmmt/</link>
+    <description>Recent content in TTmmT on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tomrenner.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomrenner.com/tags/ttmmt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things that made me think: Enshittification, apathy, and discrimination</title>
       <link>https://tomrenner.com/posts/ttmmt-1/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://tomrenner.com/posts/ttmmt-1/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://tomrenner.com/tags/TTmmT&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-rise-of-whateverhttpseeveeblog20250703the-rise-of-whatever---eevee&#34;&gt;&lt;a href=&#34;https://eev.ee/blog/2025/07/03/the-rise-of-whatever/&#34;&gt;The rise of Whatever&lt;/a&gt; - eevee&lt;/h3&gt;&#xA;&lt;p&gt;This is probably the best post about LLMs I&amp;rsquo;ve read, which is probably why I&amp;rsquo;m the millionth person to share it. It really sums up my &lt;em&gt;emotional&lt;/em&gt; reaction to their meteoric rise: &amp;ldquo;ew&amp;rdquo;, basically.&lt;/p&gt;&#xA;&lt;p&gt;The power of the argument is that it identifies a theme that runs through recent tech changes, of which LLMs are just the latest and greatest example: the lack of care for quality, and the realisation from Big Tech that consumers mostly are fine with mediocre output.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The sound of inevitability</title>
-      <link>https://tomrenner.com/posts/llm-inevitabilism/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/llm-inevitabilism/</guid>
-      <description>&lt;p&gt;Have you ever argued with someone who is seriously good at debating? I have. It sucks.&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;re constantly thrown off-balance, responding to a point you didn&amp;rsquo;t expect to. You find yourself defending the weak edges of your argument, while the main thrust gets left behind in the back-and-forth, and you end up losing momentum, confidence, and ultimately, the argument.&lt;/p&gt;&#xA;&lt;p&gt;One of my close friends won international debate competitions for fun while we were at university (he&amp;rsquo;s now a successful criminal barrister), and he told me that the only trick in the book, once you boil it all down, is to make sure the conversation is framed in your terms. Once that happens, it&amp;rsquo;s all over bar the shouting.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
