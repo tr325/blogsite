@@ -6,8 +6,15 @@
     <description>Recent content in Development Processes on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomrenner.com/tags/development-processes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimising for trust</title>
+      <link>https://tomrenner.com/posts/optimising-for-trust/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomrenner.com/posts/optimising-for-trust/</guid>
+      <description>&lt;p&gt;TDD, BDD, DDD, Agile, SAFe, Scrum, Kanban, XP&amp;hellip; there&amp;rsquo;s a lot of ways to &lt;del&gt;skin a cat&lt;/del&gt; write code in a professional environment.&lt;/p&gt;&#xA;&lt;p&gt;I take pride in being a person who is a non-ideologue when it comes to my code. There are many good ways of working, and they are all context-dependent.&lt;/p&gt;&#xA;&lt;p&gt;You can&amp;rsquo;t apply the same things that worked when you were a two-person startup operating out of the proverbial garage and expect them to work once your hypothetical unicorn has reached a thousand-plus developers. Even within the same organisation, processes that work for one team  can be catastrophic when applied to their neighbouring team.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cull your dependencies</title>
       <link>https://tomrenner.com/posts/cull-your-dependencies/</link>

@@ -6,14 +6,21 @@
     <description>Recent content in Management on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomrenner.com/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimising for trust</title>
+      <link>https://tomrenner.com/posts/optimising-for-trust/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tomrenner.com/posts/optimising-for-trust/</guid>
+      <description>&lt;p&gt;TDD, BDD, DDD, Agile, SAFe, Scrum, Kanban, XP&amp;hellip; there&amp;rsquo;s a lot of ways to &lt;del&gt;skin a cat&lt;/del&gt; write code in a professional environment.&lt;/p&gt;&#xA;&lt;p&gt;I take pride in being a person who is a non-ideologue when it comes to my code. There are many good ways of working, and they are all context-dependent.&lt;/p&gt;&#xA;&lt;p&gt;You can&amp;rsquo;t apply the same things that worked when you were a two-person startup operating out of the proverbial garage and expect them to work once your hypothetical unicorn has reached a thousand-plus developers. Even within the same organisation, processes that work for one team  can be catastrophic when applied to their neighbouring team.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Things that made me think: Enshittification, apathy, and discrimination</title>
       <link>https://tomrenner.com/posts/ttmmt-1/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://tomrenner.com/posts/ttmmt-1/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://tomrenner.com/tags/TTmmT&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-rise-of-whateverhttpseeveeblog20250703the-rise-of-whatever---eevee&#34;&gt;&lt;a href=&#34;https://eev.ee/blog/2025/07/03/the-rise-of-whatever/&#34;&gt;The rise of Whatever&lt;/a&gt; - eevee&lt;/h3&gt;&#xA;&lt;p&gt;This is probably the best post about LLMs I&amp;rsquo;ve read, which is probably why I&amp;rsquo;m the millionth person to share it. It really sums up my &lt;em&gt;emotional&lt;/em&gt; reaction to their meteoric rise: &amp;ldquo;ew&amp;rdquo;, basically.&lt;/p&gt;&#xA;&lt;p&gt;The power of the argument is that it identifies a theme that runs through recent tech changes, of which LLMs are just the latest and greatest example: the lack of care for quality, and the realisation from Big Tech that consumers mostly are fine with mediocre output.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://tomrenner.com/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-rise-of-whateverhttpseeveeblog20250703the-rise-of-whatever---eevee&#34;&gt;&lt;a href=&#34;https://eev.ee/blog/2025/07/03/the-rise-of-whatever/&#34;&gt;The rise of Whatever&lt;/a&gt; - eevee&lt;/h3&gt;&#xA;&lt;p&gt;This is probably the best post about LLMs I&amp;rsquo;ve read, which is probably why I&amp;rsquo;m the millionth person to share it. It really sums up my &lt;em&gt;emotional&lt;/em&gt; reaction to their meteoric rise: &amp;ldquo;ew&amp;rdquo;, basically.&lt;/p&gt;&#xA;&lt;p&gt;The power of the argument is that it identifies a theme that runs through recent tech changes, of which LLMs are just the latest and greatest example: the lack of care for quality, and the realisation from Big Tech that consumers mostly are fine with mediocre output.&lt;/p&gt;</description>
     </item>
     <item>
       <title>XTC discusses Basecamp&#39;s Shape-Up</title>
