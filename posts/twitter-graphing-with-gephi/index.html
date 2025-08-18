@@ -6,7 +6,10 @@
     
     <title>Twitter network graphing with Gephi | My place to put things</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Gephi is a piece of software for visualising graph networks. It&rsquo;s a powerful tool, and to use it fully requires significant domain knowledge that I don&rsquo;t possess, but fortunately it&rsquo;s still fascinating to play around with as an amateur!
+    <meta name="description" content="
+Unfortunately since Elon shut down the Twitter APIs, the below method no longer works. Still, it was fun while it lasted, eh?
+
+Gephi is a piece of software for visualising graph networks. It&rsquo;s a powerful tool, and to use it fully requires significant domain knowledge that I don&rsquo;t possess, but fortunately it&rsquo;s still fascinating to play around with as an amateur!
 As a techie, to me the obvious networks to graph are those created by the big Social Networks - YouTube, Facebook, etc. It&rsquo;s not hugely surprising to find that mostly these graphs mostly aren&rsquo;t available for querying, but excitingly there is a plugin that allows you to stream in live data from Twitter.">
     <meta name="generator" content="Hugo 0.140.2">
     
@@ -38,7 +41,8 @@ As a techie, to me the obvious networks to graph are those created by the big So
     <meta property="og:url" content="https://tomrenner.com/posts/twitter-graphing-with-gephi/">
   <meta property="og:site_name" content="My place to put things">
   <meta property="og:title" content="Twitter network graphing with Gephi">
-  <meta property="og:description" content="Gephi is a piece of software for visualising graph networks. It’s a powerful tool, and to use it fully requires significant domain knowledge that I don’t possess, but fortunately it’s still fascinating to play around with as an amateur!
+  <meta property="og:description" content="Unfortunately since Elon shut down the Twitter APIs, the below method no longer works. Still, it was fun while it lasted, eh?
+Gephi is a piece of software for visualising graph networks. It’s a powerful tool, and to use it fully requires significant domain knowledge that I don’t possess, but fortunately it’s still fascinating to play around with as an amateur!
 As a techie, to me the obvious networks to graph are those created by the big Social Networks - YouTube, Facebook, etc. It’s not hugely surprising to find that mostly these graphs mostly aren’t available for querying, but excitingly there is a plugin that allows you to stream in live data from Twitter.">
   <meta property="og:locale" content="en_gb">
   <meta property="og:type" content="article">
@@ -49,15 +53,17 @@ As a techie, to me the obvious networks to graph are those created by the big So
     <meta property="article:tag" content="Social Media">
 
   <meta itemprop="name" content="Twitter network graphing with Gephi">
-  <meta itemprop="description" content="Gephi is a piece of software for visualising graph networks. It’s a powerful tool, and to use it fully requires significant domain knowledge that I don’t possess, but fortunately it’s still fascinating to play around with as an amateur!
+  <meta itemprop="description" content="Unfortunately since Elon shut down the Twitter APIs, the below method no longer works. Still, it was fun while it lasted, eh?
+Gephi is a piece of software for visualising graph networks. It’s a powerful tool, and to use it fully requires significant domain knowledge that I don’t possess, but fortunately it’s still fascinating to play around with as an amateur!
 As a techie, to me the obvious networks to graph are those created by the big Social Networks - YouTube, Facebook, etc. It’s not hugely surprising to find that mostly these graphs mostly aren’t available for querying, but excitingly there is a plugin that allows you to stream in live data from Twitter.">
   <meta itemprop="datePublished" content="2020-04-20T00:00:00+00:00">
   <meta itemprop="dateModified" content="2020-04-20T00:00:00+00:00">
-  <meta itemprop="wordCount" content="559">
+  <meta itemprop="wordCount" content="581">
   <meta itemprop="keywords" content="How-To,Social Media">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Twitter network graphing with Gephi">
-  <meta name="twitter:description" content="Gephi is a piece of software for visualising graph networks. It’s a powerful tool, and to use it fully requires significant domain knowledge that I don’t possess, but fortunately it’s still fascinating to play around with as an amateur!
+  <meta name="twitter:description" content="Unfortunately since Elon shut down the Twitter APIs, the below method no longer works. Still, it was fun while it lasted, eh?
+Gephi is a piece of software for visualising graph networks. It’s a powerful tool, and to use it fully requires significant domain knowledge that I don’t possess, but fortunately it’s still fascinating to play around with as an amateur!
 As a techie, to me the obvious networks to graph are those created by the big Social Networks - YouTube, Facebook, etc. It’s not hugely surprising to find that mostly these graphs mostly aren’t available for querying, but excitingly there is a plugin that allows you to stream in live data from Twitter.">
 
       
@@ -168,14 +174,14 @@ As a techie, to me the obvious networks to graph are those created by the big So
         <span class="icon">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.6-9.4 37.5-1.7 21.6 5.5C3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-9.1 342.8 100.3 464.5C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4c102.4-103.4 28.1-156-65.8-169.9c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3c64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z"/></svg>
                 
-              </span></a><a href="https://news.ycombinator.com/submitlink?&amp;t=Gephi&#43;is&#43;a&#43;piece&#43;of&#43;software&#43;for&#43;visualising&#43;graph&#43;networks.&#43;It%26amp%3Brsquo%3Bs&#43;a&#43;powerful&#43;tool%2C&#43;and&#43;to&#43;use&#43;it&#43;fully&#43;requires&#43;significant&#43;domain&#43;knowledge&#43;that&#43;I&#43;don%26amp%3Brsquo%3Bt&#43;possess%2C&#43;but&#43;fortunately&#43;it%26amp%3Brsquo%3Bs&#43;still&#43;fascinating&#43;to&#43;play&#43;around&#43;with&#43;as&#43;an&#43;amateur%21%0AAs&#43;a&#43;techie%2C&#43;to&#43;me&#43;the&#43;obvious&#43;networks&#43;to&#43;graph&#43;are&#43;those&#43;created&#43;by&#43;the&#43;big&#43;Social&#43;Networks&#43;-&#43;YouTube%2C&#43;Facebook%2C&#43;etc.&#43;It%26amp%3Brsquo%3Bs&#43;not&#43;hugely&#43;surprising&#43;to&#43;find&#43;that&#43;mostly&#43;these&#43;graphs&#43;mostly&#43;aren%26amp%3Brsquo%3Bt&#43;available&#43;for&#43;querying%2C&#43;but&#43;excitingly&#43;there&#43;is&#43;a&#43;plugin&#43;that&#43;allows&#43;you&#43;to&#43;stream&#43;in&#43;live&#43;data&#43;from&#43;Twitter.%0A&amp;u=https%3A%2F%2Ftomrenner.com%2Fposts%2Ftwitter-graphing-with-gephi%2F"
+              </span></a><a href="https://news.ycombinator.com/submitlink?&amp;t=&#43;Unfortunately&#43;since&#43;Elon&#43;shut&#43;down&#43;the&#43;Twitter&#43;APIs%2C&#43;the&#43;below&#43;method&#43;no&#43;longer&#43;works.&#43;Still%2C&#43;it&#43;was&#43;fun&#43;while&#43;it&#43;lasted%2C&#43;eh%3F%0AGephi&#43;is&#43;a&#43;piece&#43;of&#43;software&#43;for&#43;visualising&#43;graph&#43;networks.&#43;It%26amp%3Brsquo%3Bs&#43;a&#43;powerful&#43;tool%2C&#43;and&#43;to&#43;use&#43;it&#43;fully&#43;requires&#43;significant&#43;domain&#43;knowledge&#43;that&#43;I&#43;don%26amp%3Brsquo%3Bt&#43;possess%2C&#43;but&#43;fortunately&#43;it%26amp%3Brsquo%3Bs&#43;still&#43;fascinating&#43;to&#43;play&#43;around&#43;with&#43;as&#43;an&#43;amateur%21%0AAs&#43;a&#43;techie%2C&#43;to&#43;me&#43;the&#43;obvious&#43;networks&#43;to&#43;graph&#43;are&#43;those&#43;created&#43;by&#43;the&#43;big&#43;Social&#43;Networks&#43;-&#43;YouTube%2C&#43;Facebook%2C&#43;etc.&#43;It%26amp%3Brsquo%3Bs&#43;not&#43;hugely&#43;surprising&#43;to&#43;find&#43;that&#43;mostly&#43;these&#43;graphs&#43;mostly&#43;aren%26amp%3Brsquo%3Bt&#43;available&#43;for&#43;querying%2C&#43;but&#43;excitingly&#43;there&#43;is&#43;a&#43;plugin&#43;that&#43;allows&#43;you&#43;to&#43;stream&#43;in&#43;live&#43;data&#43;from&#43;Twitter.%0A&amp;u=https%3A%2F%2Ftomrenner.com%2Fposts%2Ftwitter-graphing-with-gephi%2F"
         class="ananke-social-link hackernews no-underline"
         title="Share on Hacker News" aria-label="Share on Hacker News"
         target="_blank" rel="nofollow noopener noreferrer">
         <span class="icon">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M0 32v448h448V32H0zm21.2 197.2H21c.1-.1.2-.3.3-.4 0 .1 0 .3-.1.4zm218 53.9V384h-31.4V281.3L128 128h37.3c52.5 98.3 49.2 101.2 59.3 125.6 12.3-27 5.8-24.4 60.6-125.6H320l-80.8 155.1z"/></svg>
                 
-              </span></a><a href="https://www.linkedin.com/shareArticle?&amp;mini=true&amp;source=https%3A%2F%2Ftomrenner.com%2Fposts%2Ftwitter-graphing-with-gephi%2F&amp;summary=Gephi&#43;is&#43;a&#43;piece&#43;of&#43;software&#43;for&#43;visualising&#43;graph&#43;networks.&#43;It%26amp%3Brsquo%3Bs&#43;a&#43;powerful&#43;tool%2C&#43;and&#43;to&#43;use&#43;it&#43;fully&#43;requires&#43;significant&#43;domain&#43;knowledge&#43;that&#43;I&#43;don%26amp%3Brsquo%3Bt&#43;possess%2C&#43;but&#43;fortunately&#43;it%26amp%3Brsquo%3Bs&#43;still&#43;fascinating&#43;to&#43;play&#43;around&#43;with&#43;as&#43;an&#43;amateur%21%0AAs&#43;a&#43;techie%2C&#43;to&#43;me&#43;the&#43;obvious&#43;networks&#43;to&#43;graph&#43;are&#43;those&#43;created&#43;by&#43;the&#43;big&#43;Social&#43;Networks&#43;-&#43;YouTube%2C&#43;Facebook%2C&#43;etc.&#43;It%26amp%3Brsquo%3Bs&#43;not&#43;hugely&#43;surprising&#43;to&#43;find&#43;that&#43;mostly&#43;these&#43;graphs&#43;mostly&#43;aren%26amp%3Brsquo%3Bt&#43;available&#43;for&#43;querying%2C&#43;but&#43;excitingly&#43;there&#43;is&#43;a&#43;plugin&#43;that&#43;allows&#43;you&#43;to&#43;stream&#43;in&#43;live&#43;data&#43;from&#43;Twitter.%0A&amp;title=Twitter&#43;network&#43;graphing&#43;with&#43;Gephi&amp;url=https%3A%2F%2Ftomrenner.com%2Fposts%2Ftwitter-graphing-with-gephi%2F"
+              </span></a><a href="https://www.linkedin.com/shareArticle?&amp;mini=true&amp;source=https%3A%2F%2Ftomrenner.com%2Fposts%2Ftwitter-graphing-with-gephi%2F&amp;summary=&#43;Unfortunately&#43;since&#43;Elon&#43;shut&#43;down&#43;the&#43;Twitter&#43;APIs%2C&#43;the&#43;below&#43;method&#43;no&#43;longer&#43;works.&#43;Still%2C&#43;it&#43;was&#43;fun&#43;while&#43;it&#43;lasted%2C&#43;eh%3F%0AGephi&#43;is&#43;a&#43;piece&#43;of&#43;software&#43;for&#43;visualising&#43;graph&#43;networks.&#43;It%26amp%3Brsquo%3Bs&#43;a&#43;powerful&#43;tool%2C&#43;and&#43;to&#43;use&#43;it&#43;fully&#43;requires&#43;significant&#43;domain&#43;knowledge&#43;that&#43;I&#43;don%26amp%3Brsquo%3Bt&#43;possess%2C&#43;but&#43;fortunately&#43;it%26amp%3Brsquo%3Bs&#43;still&#43;fascinating&#43;to&#43;play&#43;around&#43;with&#43;as&#43;an&#43;amateur%21%0AAs&#43;a&#43;techie%2C&#43;to&#43;me&#43;the&#43;obvious&#43;networks&#43;to&#43;graph&#43;are&#43;those&#43;created&#43;by&#43;the&#43;big&#43;Social&#43;Networks&#43;-&#43;YouTube%2C&#43;Facebook%2C&#43;etc.&#43;It%26amp%3Brsquo%3Bs&#43;not&#43;hugely&#43;surprising&#43;to&#43;find&#43;that&#43;mostly&#43;these&#43;graphs&#43;mostly&#43;aren%26amp%3Brsquo%3Bt&#43;available&#43;for&#43;querying%2C&#43;but&#43;excitingly&#43;there&#43;is&#43;a&#43;plugin&#43;that&#43;allows&#43;you&#43;to&#43;stream&#43;in&#43;live&#43;data&#43;from&#43;Twitter.%0A&amp;title=Twitter&#43;network&#43;graphing&#43;with&#43;Gephi&amp;url=https%3A%2F%2Ftomrenner.com%2Fposts%2Ftwitter-graphing-with-gephi%2F"
         class="ananke-social-link linkedin no-underline"
         title="Share on LinkedIn" aria-label="Share on LinkedIn"
         target="_blank" rel="nofollow noopener noreferrer">
@@ -204,10 +210,13 @@ As a techie, to me the obvious networks to graph are those created by the big So
       
       
         <span class="f6 mv4 dib tracked"> - 3 minutes read </span>
-        <span class="f6 mv4 dib tracked"> - 559 words </span>
+        <span class="f6 mv4 dib tracked"> - 581 words </span>
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Gephi is a piece of software for visualising graph networks. It&rsquo;s a powerful tool, and to use it fully requires significant domain knowledge that I don&rsquo;t possess, but fortunately it&rsquo;s still fascinating to play around with as an amateur!</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><blockquote>
+<p>Unfortunately since Elon shut down the Twitter APIs, the below method no longer works. Still, it was fun while it lasted, eh?</p>
+</blockquote>
+<p>Gephi is a piece of software for visualising graph networks. It&rsquo;s a powerful tool, and to use it fully requires significant domain knowledge that I don&rsquo;t possess, but fortunately it&rsquo;s still fascinating to play around with as an amateur!</p>
 <p>As a techie, to me the obvious networks to graph are those created by the big Social Networks - YouTube, Facebook, etc. It&rsquo;s not hugely surprising to find that mostly these graphs mostly aren&rsquo;t available for querying, but excitingly there is a plugin that allows you to stream in live data from Twitter.</p>
 <p>I&rsquo;m very much a beginner, but I produced the network image below looking at Twitter activity around the word &ldquo;Trump&rdquo; (as an easy example of a query that produces a fair amount of activity at the moment), which I&rsquo;m really pleased with.</p>
 <p><img src="TrumpIllustrated.png" alt="" title="Network graph of Twitter activity around the word &quot;Trump&quot;"></p>
