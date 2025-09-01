@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tomrenner.com/tags/ai/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/tags/ethics/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/posts/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/tags/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/tags/technologies/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/posts/ttmmt-2/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tomrenner.com/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tomrenner.com/tags/development-processes/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,20 +32,8 @@
     <loc>https://tomrenner.com/posts/optimising-for-trust/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tomrenner.com/posts/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomrenner.com/tags/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tomrenner.com/tags/teamwork/</loc>
     <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomrenner.com/</loc>
-    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomrenner.com/tags/ai/</loc>
-    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomrenner.com/tags/diversity/</loc>
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
@@ -37,9 +46,6 @@
   </url><url>
     <loc>https://tomrenner.com/tags/ttmmt/</loc>
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tomrenner.com/tags/technologies/</loc>
-    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tomrenner.com/posts/llm-inevitabilism/</loc>
     <lastmod>2025-07-12T00:00:00+00:00</lastmod>
