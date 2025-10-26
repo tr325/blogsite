@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/trenner/Develop/HugoSite/blogsite",
+	"sourceRoot": "/Users/trenner/Develop/hugosite",
 	"sources": [
 		"ananke/css/main.css"
 	],
