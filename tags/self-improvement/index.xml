@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-Improvement on My place to put things</title>
-    <link>http://localhost:1313/tags/self-improvement/</link>
+    <link>https://tomrenner.com/tags/self-improvement/</link>
     <description>Recent content in Self-Improvement on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomrenner.com/tags/self-improvement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things that made me think: Cycle time, learning theory, and build chain security</title>
-      <link>http://localhost:1313/posts/ttmmt-3/</link>
+      <link>https://tomrenner.com/posts/ttmmt-3/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ttmmt-3/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://localhost:1313/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;measuring-cyle-time-with-dr-cat-hicks---the-hanger-dx-podcast-ankit-jain&#34;&gt;&lt;a href=&#34;https://www.aviator.co/podcast/dr-cat-hicks-cycle-time&#34;&gt;Measuring Cyle Time with Dr. Cat Hicks&lt;/a&gt; - The Hanger DX Podcast, Ankit Jain&lt;/h3&gt;&#xA;&lt;p&gt;Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don&amp;rsquo;t trust the intention behind the metrics use, they&amp;rsquo;ll game it.&lt;/p&gt;</description>
+      <guid>https://tomrenner.com/posts/ttmmt-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://tomrenner.com/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;measuring-cyle-time-with-dr-cat-hicks---the-hanger-dx-podcast-ankit-jain&#34;&gt;&lt;a href=&#34;https://www.aviator.co/podcast/dr-cat-hicks-cycle-time&#34;&gt;Measuring Cyle Time with Dr. Cat Hicks&lt;/a&gt; - The Hanger DX Podcast, Ankit Jain&lt;/h3&gt;&#xA;&lt;p&gt;Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don&amp;rsquo;t trust the intention behind the metrics use, they&amp;rsquo;ll game it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Saying the quiet part out loud</title>
-      <link>http://localhost:1313/posts/saying-the-quiet-part-out-loud/</link>
+      <link>https://tomrenner.com/posts/saying-the-quiet-part-out-loud/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/saying-the-quiet-part-out-loud/</guid>
+      <guid>https://tomrenner.com/posts/saying-the-quiet-part-out-loud/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;tweet.png&#34; alt=&#34;&#34; title=&#34;A tweet from @deathbybadger saying: &amp;quot;have started saying the subtext out loud in conversation eg. &amp;quot;by the way I&#39;m asking for reassurance&amp;quot; or &amp;quot;this look means I want you to put that down so we can talk&amp;quot; and honestly the success rate in getting what I want is much higher&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;“Saying the quiet part out loud” is a phrase I’ve just made up, to describe a method of building alignment on practices within a team. It’s the habit of stating why you are doing things a certain way, even when you would assume it’s obvious.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Efficiency&#34; is bad for your health, and your learning</title>
-      <link>http://localhost:1313/posts/efficiency-is-bad-for-your-health/</link>
+      <link>https://tomrenner.com/posts/efficiency-is-bad-for-your-health/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/efficiency-is-bad-for-your-health/</guid>
+      <guid>https://tomrenner.com/posts/efficiency-is-bad-for-your-health/</guid>
       <description>&lt;p&gt;I used to stress a lot about the &amp;ldquo;efficiency&amp;rdquo; of how I was using up all the minutes in my day. I&amp;rsquo;d to cram in as much as possible into time. eg. read on a 10 minute train, write code in the half hour before bed, etc.&lt;/p&gt;&#xA;&lt;p&gt;While I stressed about it a lot, I never found that I did the &amp;ldquo;10x&amp;rdquo; things I read about that were supposed to emerge as a result of this extra &amp;ldquo;efficiency&amp;rdquo;. For example I have only finished one of the three side projects I started in 2016, despite promising myself that those wouldn&amp;rsquo;t take long.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Offline knowledge, buses, and note-taking</title>
-      <link>http://localhost:1313/posts/offline-knowledge/</link>
+      <link>https://tomrenner.com/posts/offline-knowledge/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/offline-knowledge/</guid>
+      <guid>https://tomrenner.com/posts/offline-knowledge/</guid>
       <description>&lt;p&gt;In a team having knowledge that lives only in your head is a terrible thing.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Humans are forgetful&lt;/li&gt;&#xA;&lt;li&gt;Humans are creative, especially when problem-solving&lt;/li&gt;&#xA;&lt;li&gt;Computers are not creative&lt;/li&gt;&#xA;&lt;li&gt;Computers are not forgetful&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So we should get the computers to remember things, and allow the humans to do the creative parts.&lt;/p&gt;&#xA;&lt;p&gt;Writing software is a creative activity. You start with a blank text file and end up convincing people to give you their identity details in exchange for the ability to poke someone over Facebook. If that&amp;rsquo;s not creative I don&amp;rsquo;t know what is.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A quick guide for productive development</title>
-      <link>http://localhost:1313/posts/a-quick-guide-for-productive-development/</link>
+      <link>https://tomrenner.com/posts/a-quick-guide-for-productive-development/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-quick-guide-for-productive-development/</guid>
+      <guid>https://tomrenner.com/posts/a-quick-guide-for-productive-development/</guid>
       <description>&lt;p&gt;It is upsettingly easy to work hard without being productive. &lt;a href=&#34;https://theleanstartup.com/book&#34;&gt;The Lean Startup&lt;/a&gt; includes a quote I really liked:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;[People] feel that a good day is one in which they did their job well all day.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The point being that this doesn&amp;rsquo;t account for whether you are doing the right work. This is a really common trap to fall in to. I know I have often worked really hard on something and produced code I&amp;rsquo;m very happy with, only to talk to my boss or the client and find that nobody else seems to be nearly as pleased with what I&amp;rsquo;ve produced as I am.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why am I doing this again?</title>
-      <link>http://localhost:1313/posts/why-am-i-doing-this-again/</link>
+      <link>https://tomrenner.com/posts/why-am-i-doing-this-again/</link>
       <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/why-am-i-doing-this-again/</guid>
+      <guid>https://tomrenner.com/posts/why-am-i-doing-this-again/</guid>
       <description>&lt;h3 id=&#34;why-do-i-want-to-have-my-own-site&#34;&gt;Why do I want to have my own site?&lt;/h3&gt;&#xA;&lt;p&gt;Narcissism mostly. I found the domain was available, decided as a self-respecting developer I should probably buy it. But then there&amp;rsquo;s no point owning a domain if you don&amp;rsquo;t put something there. So that was it really - I had to I had to get my act together and actually write the thing.&lt;/p&gt;&#xA;&lt;h3 id=&#34;i-enjoy-developing&#34;&gt;I enjoy developing&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a person who finds it hard to devote time outside of office hours to write code. I suspect it&amp;rsquo;s because I hate fun. Whatever the reason, if I&amp;rsquo;m not doing something &lt;em&gt;useful&lt;/em&gt;, I won&amp;rsquo;t bother. So having decided I would like to code more, I had to find something useful to write.&lt;/p&gt;</description>
     </item>
   </channel>

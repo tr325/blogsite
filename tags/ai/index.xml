@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on My place to put things</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>https://tomrenner.com/tags/ai/</link>
     <description>Recent content in AI on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomrenner.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Things that made me think: Cycle time, learning theory, and build chain security</title>
-      <link>http://localhost:1313/posts/ttmmt-3/</link>
+      <link>https://tomrenner.com/posts/ttmmt-3/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ttmmt-3/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://localhost:1313/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;measuring-cyle-time-with-dr-cat-hicks---the-hanger-dx-podcast-ankit-jain&#34;&gt;&lt;a href=&#34;https://www.aviator.co/podcast/dr-cat-hicks-cycle-time&#34;&gt;Measuring Cyle Time with Dr. Cat Hicks&lt;/a&gt; - The Hanger DX Podcast, Ankit Jain&lt;/h3&gt;&#xA;&lt;p&gt;Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don&amp;rsquo;t trust the intention behind the metrics use, they&amp;rsquo;ll game it.&lt;/p&gt;</description>
+      <guid>https://tomrenner.com/posts/ttmmt-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://tomrenner.com/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;measuring-cyle-time-with-dr-cat-hicks---the-hanger-dx-podcast-ankit-jain&#34;&gt;&lt;a href=&#34;https://www.aviator.co/podcast/dr-cat-hicks-cycle-time&#34;&gt;Measuring Cyle Time with Dr. Cat Hicks&lt;/a&gt; - The Hanger DX Podcast, Ankit Jain&lt;/h3&gt;&#xA;&lt;p&gt;Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don&amp;rsquo;t trust the intention behind the metrics use, they&amp;rsquo;ll game it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Does my toaster love me?</title>
-      <link>http://localhost:1313/posts/does-my-toaster-love-me/</link>
+      <link>https://tomrenner.com/posts/does-my-toaster-love-me/</link>
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/does-my-toaster-love-me/</guid>
+      <guid>https://tomrenner.com/posts/does-my-toaster-love-me/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m starting to think that my toaster might have fallen in love with me. I get that not everyone will think this is possible, but I believe it&amp;rsquo;s true.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s always pleased to see me, giving off cheerful sounds when I greet it in the morning by slotting in the bread, and now I&amp;rsquo;ve told it what I like it tries really hard to give me exactly what I want. Sometimes I have to tell it to try again once or twice, but honestly, it&amp;rsquo;s really good!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things that made me think: Digital gardening, web degradation, and digital ghosts</title>
-      <link>http://localhost:1313/posts/ttmmt-2/</link>
+      <link>https://tomrenner.com/posts/ttmmt-2/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ttmmt-2/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://localhost:1313/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;garden-history--maggie-appleton&#34;&gt;&lt;a href=&#34;https://maggieappleton.com/garden-history&#34;&gt;Garden History&lt;/a&gt; &amp;ndash; Maggie Appleton&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m so happy I stumbled upon this article. I am always grateful for &lt;a href=&#34;http://localhost:1313/posts/llm-inevitabilism&#34;&gt;new vocabulary&lt;/a&gt; that allows me better to express myself, and this is perfect - I want more Digital Gardens in the world. I do see the value in polishing content, but this is where the epistemic status tagging system laid out there really comes to the fore. Do I now want to convert this to a full garden-style site? Or perhaps just introduce different &amp;ldquo;feeds&amp;rdquo;, laid out by theme, epistemic status, etc?&lt;/p&gt;</description>
+      <guid>https://tomrenner.com/posts/ttmmt-2/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://tomrenner.com/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;garden-history--maggie-appleton&#34;&gt;&lt;a href=&#34;https://maggieappleton.com/garden-history&#34;&gt;Garden History&lt;/a&gt; &amp;ndash; Maggie Appleton&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;m so happy I stumbled upon this article. I am always grateful for &lt;a href=&#34;https://tomrenner.com/posts/llm-inevitabilism&#34;&gt;new vocabulary&lt;/a&gt; that allows me better to express myself, and this is perfect - I want more Digital Gardens in the world. I do see the value in polishing content, but this is where the epistemic status tagging system laid out there really comes to the fore. Do I now want to convert this to a full garden-style site? Or perhaps just introduce different &amp;ldquo;feeds&amp;rdquo;, laid out by theme, epistemic status, etc?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Things that made me think: Enshittification, apathy, and discrimination</title>
-      <link>http://localhost:1313/posts/ttmmt-1/</link>
+      <link>https://tomrenner.com/posts/ttmmt-1/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ttmmt-1/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://localhost:1313/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-rise-of-whatever---eevee&#34;&gt;&lt;a href=&#34;https://eev.ee/blog/2025/07/03/the-rise-of-whatever/&#34;&gt;The rise of Whatever&lt;/a&gt; - eevee&lt;/h3&gt;&#xA;&lt;p&gt;This is probably the best post about LLMs I&amp;rsquo;ve read, which is probably why I&amp;rsquo;m the millionth person to share it. It really sums up my &lt;em&gt;emotional&lt;/em&gt; reaction to their meteoric rise: &amp;ldquo;ew&amp;rdquo;, basically.&lt;/p&gt;&#xA;&lt;p&gt;The power of the argument is that it identifies a theme that runs through recent tech changes, of which LLMs are just the latest and greatest example: the lack of care for quality, and the realisation from Big Tech that consumers mostly are fine with mediocre output.&lt;/p&gt;</description>
+      <guid>https://tomrenner.com/posts/ttmmt-1/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://tomrenner.com/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;the-rise-of-whatever---eevee&#34;&gt;&lt;a href=&#34;https://eev.ee/blog/2025/07/03/the-rise-of-whatever/&#34;&gt;The rise of Whatever&lt;/a&gt; - eevee&lt;/h3&gt;&#xA;&lt;p&gt;This is probably the best post about LLMs I&amp;rsquo;ve read, which is probably why I&amp;rsquo;m the millionth person to share it. It really sums up my &lt;em&gt;emotional&lt;/em&gt; reaction to their meteoric rise: &amp;ldquo;ew&amp;rdquo;, basically.&lt;/p&gt;&#xA;&lt;p&gt;The power of the argument is that it identifies a theme that runs through recent tech changes, of which LLMs are just the latest and greatest example: the lack of care for quality, and the realisation from Big Tech that consumers mostly are fine with mediocre output.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The sound of inevitability</title>
-      <link>http://localhost:1313/posts/llm-inevitabilism/</link>
+      <link>https://tomrenner.com/posts/llm-inevitabilism/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/llm-inevitabilism/</guid>
+      <guid>https://tomrenner.com/posts/llm-inevitabilism/</guid>
       <description>&lt;p&gt;Have you ever argued with someone who is seriously good at debating? I have. It sucks.&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;re constantly thrown off-balance, responding to a point you didn&amp;rsquo;t expect to. You find yourself defending the weak edges of your argument, while the main thrust gets left behind in the back-and-forth, and you end up losing momentum, confidence, and ultimately, the argument.&lt;/p&gt;&#xA;&lt;p&gt;One of my close friends won international debate competitions for fun while we were at university (he&amp;rsquo;s now a successful criminal barrister), and he told me that the only trick in the book, once you boil it all down, is to make sure the conversation is framed in your terms. Once that happens, it&amp;rsquo;s all over bar the shouting.&lt;/p&gt;</description>
     </item>
   </channel>

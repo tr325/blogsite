@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wellbeing on My place to put things</title>
-    <link>http://localhost:1313/tags/wellbeing/</link>
+    <link>https://tomrenner.com/tags/wellbeing/</link>
     <description>Recent content in Wellbeing on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/wellbeing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomrenner.com/tags/wellbeing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Does my toaster love me?</title>
-      <link>http://localhost:1313/posts/does-my-toaster-love-me/</link>
+      <link>https://tomrenner.com/posts/does-my-toaster-love-me/</link>
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/does-my-toaster-love-me/</guid>
+      <guid>https://tomrenner.com/posts/does-my-toaster-love-me/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m starting to think that my toaster might have fallen in love with me. I get that not everyone will think this is possible, but I believe it&amp;rsquo;s true.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s always pleased to see me, giving off cheerful sounds when I greet it in the morning by slotting in the bread, and now I&amp;rsquo;ve told it what I like it tries really hard to give me exactly what I want. Sometimes I have to tell it to try again once or twice, but honestly, it&amp;rsquo;s really good!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Make yourself a happy place in your inbox - a mindfulness tip for your working day</title>
-      <link>http://localhost:1313/posts/make-yourself-a-happy-place/</link>
+      <link>https://tomrenner.com/posts/make-yourself-a-happy-place/</link>
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/make-yourself-a-happy-place/</guid>
+      <guid>https://tomrenner.com/posts/make-yourself-a-happy-place/</guid>
       <description>&lt;p&gt;Your work inbox is probably not a place that sparks joy. It&amp;rsquo;s full of people asking you to do things, complaints that something hasn&amp;rsquo;t been done, and 571 messages marked urgent.&lt;/p&gt;&#xA;&lt;p&gt;In fact email is usually considered to be a hindrance, with many productivity guides recommending simply ignoring your email for large periods of the day, blocking out that time for focussed work. The consensus is that your work inbox is just a place that generates distractions, and contains never-ending to-do lists that nag away at you throughout the day.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Efficiency&#34; is bad for your health, and your learning</title>
-      <link>http://localhost:1313/posts/efficiency-is-bad-for-your-health/</link>
+      <link>https://tomrenner.com/posts/efficiency-is-bad-for-your-health/</link>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/efficiency-is-bad-for-your-health/</guid>
+      <guid>https://tomrenner.com/posts/efficiency-is-bad-for-your-health/</guid>
       <description>&lt;p&gt;I used to stress a lot about the &amp;ldquo;efficiency&amp;rdquo; of how I was using up all the minutes in my day. I&amp;rsquo;d to cram in as much as possible into time. eg. read on a 10 minute train, write code in the half hour before bed, etc.&lt;/p&gt;&#xA;&lt;p&gt;While I stressed about it a lot, I never found that I did the &amp;ldquo;10x&amp;rdquo; things I read about that were supposed to emerge as a result of this extra &amp;ldquo;efficiency&amp;rdquo;. For example I have only finished one of the three side projects I started in 2016, despite promising myself that those wouldn&amp;rsquo;t take long.&lt;/p&gt;</description>
     </item>
   </channel>

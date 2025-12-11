@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teamwork on My place to put things</title>
-    <link>http://localhost:1313/tags/teamwork/</link>
+    <link>https://tomrenner.com/tags/teamwork/</link>
     <description>Recent content in Teamwork on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/teamwork/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tomrenner.com/tags/teamwork/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Does my toaster love me?</title>
-      <link>http://localhost:1313/posts/does-my-toaster-love-me/</link>
+      <link>https://tomrenner.com/posts/does-my-toaster-love-me/</link>
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/does-my-toaster-love-me/</guid>
+      <guid>https://tomrenner.com/posts/does-my-toaster-love-me/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m starting to think that my toaster might have fallen in love with me. I get that not everyone will think this is possible, but I believe it&amp;rsquo;s true.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s always pleased to see me, giving off cheerful sounds when I greet it in the morning by slotting in the bread, and now I&amp;rsquo;ve told it what I like it tries really hard to give me exactly what I want. Sometimes I have to tell it to try again once or twice, but honestly, it&amp;rsquo;s really good!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimising for trust</title>
-      <link>http://localhost:1313/posts/optimising-for-trust/</link>
+      <link>https://tomrenner.com/posts/optimising-for-trust/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/optimising-for-trust/</guid>
+      <guid>https://tomrenner.com/posts/optimising-for-trust/</guid>
       <description>&lt;p&gt;TDD, BDD, DDD, Agile, SAFe, Scrum, Kanban, XP&amp;hellip; there&amp;rsquo;s a lot of ways to &lt;del&gt;skin a cat&lt;/del&gt; write code in a professional environment.&lt;/p&gt;&#xA;&lt;p&gt;I take pride in being a person who is a non-ideologue when it comes to my code. There are many good ways of working, and they are all context-dependent.&lt;/p&gt;&#xA;&lt;p&gt;You can&amp;rsquo;t apply the same things that worked when you were a two-person startup operating out of the proverbial garage and expect them to work once your hypothetical unicorn has reached a thousand-plus developers. Even within the same organisation, processes that work for one team  can be catastrophic when applied to their neighbouring team.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DORA? I barely know her!</title>
-      <link>http://localhost:1313/posts/dora-i-barely-know-her/</link>
+      <link>https://tomrenner.com/posts/dora-i-barely-know-her/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dora-i-barely-know-her/</guid>
+      <guid>https://tomrenner.com/posts/dora-i-barely-know-her/</guid>
       <description>&lt;h2 id=&#34;coming-to-grips-with-devops-metrics&#34;&gt;Coming to grips with DevOps metrics&lt;/h2&gt;&#xA;&lt;p&gt;In my team we have been considering ways to monitor our own performance, and finding some ways to contextualise our ongoing process and quality improvements. Like many other teams, we&amp;rsquo;ve landed on the &lt;a href=&#34;https://www.blueoptima.com/blog/how-to-measure-devops-success-why-dora-metrics-are-important&#34;&gt;DORA metrics&lt;/a&gt; as a good way of doing this.  These four key metrics are an easy way to understand what adjectives like &amp;ldquo;maintainable&amp;rdquo;, &amp;ldquo;reliable&amp;rdquo;, and &amp;ldquo;efficient&amp;rdquo; mean in practice when applied to software and teams, and the provide a way of comparing team performance across teams and over time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>XTC discusses Basecamp&#39;s Shape-Up</title>
-      <link>http://localhost:1313/posts/xtc-basecamp-shape-up/</link>
+      <link>https://tomrenner.com/posts/xtc-basecamp-shape-up/</link>
       <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/xtc-basecamp-shape-up/</guid>
+      <guid>https://tomrenner.com/posts/xtc-basecamp-shape-up/</guid>
       <description>&lt;p&gt;Last week I facilitated a session at &lt;a href=&#34;https://www.meetup.com/eXtreme-Tuesday-Club-XTC/&#34;&gt;XTC&lt;/a&gt;, where we discussed the new product development framework from Basecamp, &lt;a href=&#34;https://basecamp.com/shapeup&#34;&gt;Shape Up&lt;/a&gt;, led by &lt;a href=&#34;https://twitter.com/thomasankcorn&#34;&gt;Thomas Ankorn&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It was a really interesting discussion with people exploring the ideas openly, guided by questions posed by Thomas to get the conversation started.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve summarised the points that came up in the discussion, reconstructed from memory and the collected post-its of scribbles at the end of the evening.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-what-problems-does-this-solve&#34;&gt;1. What problems does this solve?&lt;/h3&gt;&#xA;&lt;p&gt;We started by looking at the positives of the framework, trying to identify strengths that would help mitigate problems we have encountered in our own teams.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Temple of Fail</title>
-      <link>http://localhost:1313/posts/temple-of-fail/</link>
+      <link>https://tomrenner.com/posts/temple-of-fail/</link>
       <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/temple-of-fail/</guid>
+      <guid>https://tomrenner.com/posts/temple-of-fail/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;DISCLAIMER:&lt;/strong&gt; &lt;em&gt;This was not my idea - I picked it up from Jane Nicholson at an &lt;a href=&#34;https://www.meetup.com/eXtreme-Tuesday-Club-XTC/&#34;&gt;XTC&lt;/a&gt; event, who was introduced to it by Jess Gilbert (who in turn, I am told, got it from someone else). This post is just explaining why I believe it can be a useful exercise, not any truly original thinking!&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;One of the things that is really important to me is that my team and I keep learning at work. As such, fostering a learning environment is kinda key. I think we do that pretty well at Haplo &amp;ndash; we have hired nearly exclusively early-career developers to our tech team for several years now, and one of the key points most hires mention as to why they join is that they feel it&amp;rsquo;s a good place to learn quickly, with the requisite support early on in their career.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A quick guide for productive development</title>
-      <link>http://localhost:1313/posts/a-quick-guide-for-productive-development/</link>
+      <link>https://tomrenner.com/posts/a-quick-guide-for-productive-development/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/a-quick-guide-for-productive-development/</guid>
+      <guid>https://tomrenner.com/posts/a-quick-guide-for-productive-development/</guid>
       <description>&lt;p&gt;It is upsettingly easy to work hard without being productive. &lt;a href=&#34;https://theleanstartup.com/book&#34;&gt;The Lean Startup&lt;/a&gt; includes a quote I really liked:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;[People] feel that a good day is one in which they did their job well all day.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The point being that this doesn&amp;rsquo;t account for whether you are doing the right work. This is a really common trap to fall in to. I know I have often worked really hard on something and produced code I&amp;rsquo;m very happy with, only to talk to my boss or the client and find that nobody else seems to be nearly as pleased with what I&amp;rsquo;ve produced as I am.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The customer is always right</title>
-      <link>http://localhost:1313/posts/the-customer-is-always-right/</link>
+      <link>https://tomrenner.com/posts/the-customer-is-always-right/</link>
       <pubDate>Sat, 04 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-customer-is-always-right/</guid>
+      <guid>https://tomrenner.com/posts/the-customer-is-always-right/</guid>
       <description>&lt;p&gt;A theme of the last few books I&amp;rsquo;ve read has been user testing. Specifically, that it is completely unreasonable to suggest that you could produce a system that will work smoothly in production without first getting several actual human users unfamiliar with your system, from your clients or in a related industry, to road-test the system.&lt;/p&gt;&#xA;&lt;p&gt;I think anyone can see that this is a good idea. It&amp;rsquo;s far too easy to make assumptions about the users&amp;rsquo; requirements or use cases. Without user testing software would rarely solve the problems it was designed for.&lt;/p&gt;</description>
     </item>
   </channel>
