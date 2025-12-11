@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Things that made me think: Cycle time, learning theory, and build chain security | My place to put things</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="
+This series is a place to collect interesting things I&rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.
+
+
+Measuring Cyle Time with Dr. Cat Hicks - The Hanger DX Podcast, Ankit Jain
+Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don&rsquo;t trust the intention behind the metrics use, they&rsquo;ll game it.">
+    <meta name="generator" content="Hugo 0.152.2">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+      <meta name="author" content = "Tom Renner">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/posts/ttmmt-3/">
+    
+
+    <meta property="og:url" content="http://localhost:1313/posts/ttmmt-3/">
+  <meta property="og:site_name" content="My place to put things">
+  <meta property="og:title" content="Things that made me think: Cycle time, learning theory, and build chain security">
+  <meta property="og:description" content="This series is a place to collect interesting things I’ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.
+Measuring Cyle Time with Dr. Cat Hicks - The Hanger DX Podcast, Ankit Jain Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don’t trust the intention behind the metrics use, they’ll game it.">
+  <meta property="og:locale" content="en_gb">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-12-09T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-12-09T00:00:00+00:00">
+    <meta property="article:tag" content="Self-Improvement">
+    <meta property="article:tag" content="AI">
+    <meta property="article:tag" content="Technologies">
+    <meta property="article:tag" content="Development-Processes">
+    <meta property="article:tag" content="TTmmT">
+
+  <meta itemprop="name" content="Things that made me think: Cycle time, learning theory, and build chain security">
+  <meta itemprop="description" content="This series is a place to collect interesting things I’ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.
+Measuring Cyle Time with Dr. Cat Hicks - The Hanger DX Podcast, Ankit Jain Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don’t trust the intention behind the metrics use, they’ll game it.">
+  <meta itemprop="datePublished" content="2025-12-09T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-12-09T00:00:00+00:00">
+  <meta itemprop="wordCount" content="555">
+  <meta itemprop="keywords" content="Self-Improvement,AI,Technologies,Development-Processes,TTmmT">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Things that made me think: Cycle time, learning theory, and build chain security">
+  <meta name="twitter:description" content="This series is a place to collect interesting things I’ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.
+Measuring Cyle Time with Dr. Cat Hicks - The Hanger DX Podcast, Ankit Jain Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don’t trust the intention behind the metrics use, they’ll game it.">
+
+      <link rel="me" href="https://mastodon.social/@trenner" />
+    <meta name="fediverse:creator" content="@trenner@mastodon.social">
+
+    <link rel="me" href="https://github.com/tr325" />
+
+    <link rel="webmention" href="https://webmention.io/tomrenner.com/webmention" />
+
+    <span class="h-card" style="display: none;">
+        <span class="p-name">Tom Renner</span>
+        <span class="p-given-name">Tom</span>
+        <span class="p-family-name">Renner</span>
+        <span class="p-note">Generalist developer and team lead, based in Munich. Cares about ethical tech, teamwork, and badgers.</span>
+        <a class="u-url u-uid" href="https://tomrenner.com">tomrenner.com</a>
+        <a class="u-url" rel="me" href="https://mastodon.social/@trenner">@trenner@mastodon.social</a>
+    </span>
+  </head><body class="ma0 avenir bg-near-white development">
+
+    
+   
+  
+
+  
+  
+  
+  <header class="cover bg-center" style="background-image: url('http://localhost:1313/images/TTmmT.jpg');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        My place to put things
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/posts/" title="Posts page">
+              Posts
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"><a href="https://mastodon.social/@trenner" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition mastodon link dib z-999 pt3 pt0-l mr1"
+        title="follow on Mastodon - Opens in a new window"
+        aria-label="follow on Mastodon - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M433 179.11c0-97.2-63.71-125.7-63.71-125.7-62.52-28.7-228.56-28.4-290.48 0 0 0-63.72 28.5-63.72 125.7 0 115.7-6.6 259.4 105.63 289.1 40.51 10.7 75.32 13 103.33 11.4 50.81-2.8 79.32-18.1 79.32-18.1l-1.7-36.9s-36.31 11.4-77.12 10.1c-40.41-1.4-83-4.4-89.63-54a102.54 102.54 0 0 1-.9-13.9c85.63 20.9 158.65 9.1 178.75 6.7 56.12-6.7 105-41.3 111.23-72.9 9.8-49.8 9-121.5 9-121.5zm-75.12 125.2h-46.63v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.33V197c0-58.5-64-56.6-64-6.9v114.2H90.19c0-122.1-5.2-147.9 18.41-175 25.9-28.9 79.82-30.8 103.83 6.1l11.6 19.5 11.6-19.5c24.11-37.1 78.12-34.8 103.83-6.1 23.71 27.3 18.4 53 18.4 175z"/></svg>
+            
+          </span></a><a href="https://github.com/tr325" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition github link dib z-999 pt3 pt0-l mr1"
+        title="follow on GitHub - Opens in a new window"
+        aria-label="follow on GitHub - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+            
+          </span></a><a href="http://linkedin.com/in/tom-renner" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition linkedin link dib z-999 pt3 pt0-l mr1"
+        title="follow on LinkedIn - Opens in a new window"
+        aria-label="follow on LinkedIn - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+            
+          </span></a><a href="" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition orcid link dib z-999 pt3 pt0-l mr1"
+        title="follow on  - Opens in a new window"
+        aria-label="follow on  - Opens in a new window">
+      </a><a href="https://tomrenner.com/index.xml" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition rss link dib z-999 pt3 pt0-l mr1"
+        title="follow on RSS - Opens in a new window"
+        aria-label="follow on RSS - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
+            
+          </span></a></div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">Things that made me think: Cycle time, learning theory, and build chain security</div>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="h-entry flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Posts
+      </aside><div id="sharing" class="mt3 ananke-socials"><a href="https://bsky.app/intent/compose?&amp;text=http%3A%2F%2Flocalhost%3A1313%2Fposts%2Fttmmt-3%2F"
+        class="ananke-social-link bluesky no-underline"
+        title="Share on Bluesky" aria-label="Share on Bluesky"
+        target="_blank" rel="nofollow noopener noreferrer">
+        <span class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M407.8 294.7c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3zM288 227.1C261.9 176.4 190.9 81.9 124.9 35.3C61.6-9.4 37.5-1.7 21.6 5.5C3.3 13.8 0 41.9 0 58.4S9.1 194 15 213.9c19.5 65.7 89.1 87.9 153.2 80.7c3.3-.5 6.6-.9 10-1.4c-3.3 .5-6.6 1-10 1.4C74.3 308.6-9.1 342.8 100.3 464.5C220.6 589.1 265.1 437.8 288 361.1c22.9 76.7 49.2 222.5 185.6 103.4c102.4-103.4 28.1-156-65.8-169.9c-3.3-.4-6.7-.8-10-1.3c3.4 .4 6.7 .9 10 1.3c64.1 7.1 133.6-15.1 153.2-80.7C566.9 194 576 75 576 58.4s-3.3-44.7-21.6-52.9c-15.8-7.1-40-14.9-103.2 29.8C385.1 81.9 314.1 176.4 288 227.1z"/></svg>
+                
+              </span></a><a href="https://news.ycombinator.com/submitlink?&amp;t=&#43;This&#43;series&#43;is&#43;a&#43;place&#43;to&#43;collect&#43;interesting&#43;things&#43;I%26amp%3Brsquo%3Bve&#43;seen%2C&#43;read%2C&#43;or&#43;heard%2C&#43;along&#43;with&#43;some&#43;brief&#43;thoughts&#43;%28often&#43;incomplete&#43;and%2For&#43;inconclusive%29&#43;that&#43;they&#43;provoked.%0AMeasuring&#43;Cyle&#43;Time&#43;with&#43;Dr.&#43;Cat&#43;Hicks&#43;-&#43;The&#43;Hanger&#43;DX&#43;Podcast%2C&#43;Ankit&#43;Jain&#43;Cycle&#43;time&#43;is&#43;a&#43;measure&#43;lots&#43;of&#43;people&#43;use%2C&#43;but&#43;has&#43;no&#43;clear&#43;audience&#43;-&#43;developers%2C&#43;managers%2C&#43;CTOs&#43;all&#43;care&#43;about&#43;it.&#43;This&#43;makes&#43;it&#43;dangerous.&#43;Metrics&#43;have&#43;to&#43;be&#43;designed&#43;and&#43;used&#43;with&#43;psychological&#43;safety&#43;in&#43;mind.&#43;If&#43;people&#43;don%26amp%3Brsquo%3Bt&#43;trust&#43;the&#43;intention&#43;behind&#43;the&#43;metrics&#43;use%2C&#43;they%26amp%3Brsquo%3Bll&#43;game&#43;it.%0A&amp;u=http%3A%2F%2Flocalhost%3A1313%2Fposts%2Fttmmt-3%2F"
+        class="ananke-social-link hackernews no-underline"
+        title="Share on Hacker News" aria-label="Share on Hacker News"
+        target="_blank" rel="nofollow noopener noreferrer">
+        <span class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M0 32v448h448V32H0zm21.2 197.2H21c.1-.1.2-.3.3-.4 0 .1 0 .3-.1.4zm218 53.9V384h-31.4V281.3L128 128h37.3c52.5 98.3 49.2 101.2 59.3 125.6 12.3-27 5.8-24.4 60.6-125.6H320l-80.8 155.1z"/></svg>
+                
+              </span></a><a href="https://www.linkedin.com/shareArticle?&amp;mini=true&amp;source=http%3A%2F%2Flocalhost%3A1313%2Fposts%2Fttmmt-3%2F&amp;summary=&#43;This&#43;series&#43;is&#43;a&#43;place&#43;to&#43;collect&#43;interesting&#43;things&#43;I%26amp%3Brsquo%3Bve&#43;seen%2C&#43;read%2C&#43;or&#43;heard%2C&#43;along&#43;with&#43;some&#43;brief&#43;thoughts&#43;%28often&#43;incomplete&#43;and%2For&#43;inconclusive%29&#43;that&#43;they&#43;provoked.%0AMeasuring&#43;Cyle&#43;Time&#43;with&#43;Dr.&#43;Cat&#43;Hicks&#43;-&#43;The&#43;Hanger&#43;DX&#43;Podcast%2C&#43;Ankit&#43;Jain&#43;Cycle&#43;time&#43;is&#43;a&#43;measure&#43;lots&#43;of&#43;people&#43;use%2C&#43;but&#43;has&#43;no&#43;clear&#43;audience&#43;-&#43;developers%2C&#43;managers%2C&#43;CTOs&#43;all&#43;care&#43;about&#43;it.&#43;This&#43;makes&#43;it&#43;dangerous.&#43;Metrics&#43;have&#43;to&#43;be&#43;designed&#43;and&#43;used&#43;with&#43;psychological&#43;safety&#43;in&#43;mind.&#43;If&#43;people&#43;don%26amp%3Brsquo%3Bt&#43;trust&#43;the&#43;intention&#43;behind&#43;the&#43;metrics&#43;use%2C&#43;they%26amp%3Brsquo%3Bll&#43;game&#43;it.%0A&amp;title=Things&#43;that&#43;made&#43;me&#43;think%3A&#43;Cycle&#43;time%2C&#43;learning&#43;theory%2C&#43;and&#43;build&#43;chain&#43;security&amp;url=http%3A%2F%2Flocalhost%3A1313%2Fposts%2Fttmmt-3%2F"
+        class="ananke-social-link linkedin no-underline"
+        title="Share on LinkedIn" aria-label="Share on LinkedIn"
+        target="_blank" rel="nofollow noopener noreferrer">
+        <span class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+                
+              </span></a><a href="https://reddit.com/submit/?&amp;resubmit=true&amp;title=Things&#43;that&#43;made&#43;me&#43;think%3A&#43;Cycle&#43;time%2C&#43;learning&#43;theory%2C&#43;and&#43;build&#43;chain&#43;security&amp;url=http%3A%2F%2Flocalhost%3A1313%2Fposts%2Fttmmt-3%2F"
+        class="ananke-social-link reddit no-underline"
+        title="Share on Reddit" aria-label="Share on Reddit"
+        target="_blank" rel="nofollow noopener noreferrer">
+        <span class="icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M0 256C0 114.6 114.6 0 256 0S512 114.6 512 256s-114.6 256-256 256L37.1 512c-13.7 0-20.5-16.5-10.9-26.2L75 437C28.7 390.7 0 326.7 0 256zM349.6 153.6c23.6 0 42.7-19.1 42.7-42.7s-19.1-42.7-42.7-42.7c-20.6 0-37.8 14.6-41.8 34c-34.5 3.7-61.4 33-61.4 68.4l0 .2c-37.5 1.6-71.8 12.3-99 29.1c-10.1-7.8-22.8-12.5-36.5-12.5c-33 0-59.8 26.8-59.8 59.8c0 24 14.1 44.6 34.4 54.1c2 69.4 77.6 125.2 170.6 125.2s168.7-55.9 170.6-125.3c20.2-9.6 34.1-30.2 34.1-54c0-33-26.8-59.8-59.8-59.8c-13.7 0-26.3 4.6-36.4 12.4c-27.4-17-62.1-27.7-100-29.1l0-.2c0-25.4 18.9-46.5 43.4-49.9l0 0c4.4 18.8 21.3 32.8 41.5 32.8zM177.1 246.9c16.7 0 29.5 17.6 28.5 39.3s-13.5 29.6-30.3 29.6s-31.4-8.8-30.4-30.5s15.4-38.3 32.1-38.3zm190.1 38.3c1 21.7-13.7 30.5-30.4 30.5s-29.3-7.9-30.3-29.6c-1-21.7 11.8-39.3 28.5-39.3s31.2 16.6 32.1 38.3zm-48.1 56.7c-10.3 24.6-34.6 41.9-63 41.9s-52.7-17.3-63-41.9c-1.2-2.9 .8-6.2 3.9-6.5c18.4-1.9 38.3-2.9 59.1-2.9s40.7 1 59.1 2.9c3.1 .3 5.1 3.6 3.9 6.5z"/></svg>
+                
+              </span></a></div>
+<h1 class="p-name f1 athelas mt3 mb1">Things that made me think: Cycle time, learning theory, and build chain security</h1>
+      
+      <p class="tracked">
+         <strong>Tom Renner</strong>
+      </p>
+      
+      
+      
+      <time class="dt-published f6 mv4 dib tracked" datetime="2025-12-09T00:00:00Z">December 9, 2025</time>
+      
+
+      
+      
+        <span class="f6 mv4 dib tracked"> - 3 minutes read </span>
+        <span class="f6 mv4 dib tracked"> - 555 words </span>
+      
+    </header>
+    <div class="e-content nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><blockquote>
+<p><em><a href="/tags/ttmmt">This series</a> is a place to collect interesting things I&rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.</em></p>
+</blockquote>
+<hr>
+<h3 id="measuring-cyle-time-with-dr-cat-hicks---the-hanger-dx-podcast-ankit-jain"><a href="https://www.aviator.co/podcast/dr-cat-hicks-cycle-time">Measuring Cyle Time with Dr. Cat Hicks</a> - The Hanger DX Podcast, Ankit Jain</h3>
+<p>Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don&rsquo;t trust the intention behind the metrics use, they&rsquo;ll game it.</p>
+<p>Cycle time is <strong>massively variable</strong>; between developers, within one developer&rsquo;s year, annual variations (christmas, summer holidays, OKR timetables, etc.) &ndash; you need a <em>really long</em> timeframe over which to measure to use it sensibly.</p>
+<p>Once you have a metric you&rsquo;ve measured semi-successfully, don&rsquo;t use it to benchmark, don&rsquo;t assume it covers all work (plenty is not tracked by cycle time), and make sure you always connect it to outcomes &ndash; eg. shorter cycle time doesn&rsquo;t mean customers are happy.</p>
+<p>&hellip; all of which makes me just very cautious about measuring anything in my team! I&rsquo;m not sure that&rsquo;s the takeaway I was meant to have&hellip;</p>
+<hr>
+<h3 id="stop-building-ai-tools-backwards--hazel-weakly"><a href="https://hazelweakly.me/blog/stop-building-ai-tools-backwards/">Stop building AI tools backwards</a> &ndash; Hazel Weakly</h3>
+<p>Firstly, Hazel is such a badass, and I love everything she writes. This post really shaped my thinking about how to successfully use LLMs and not just keep feeding text into the software slot machine in the hope that it eventually gives the right answer.</p>
+<p>It made me realise that I need to learn more about learning! Because by building learning theory into the design of our interactions with AI, Hazel superbly articulates what <em>better</em> could look like for these tools, and how a sensible product that supported its users&rsquo; development might work.</p>
+<p>Now I need to review the EDGE framework she mentions in more detail, and reflect on how I approach learning-on-the-job. And if I&rsquo;m really aiming to be an overachiever, I should put that into terms my team will connect with, so they get the most out of our LLM toolsets as well.</p>
+<hr>
+<h3 id="pwning-the-entire-nix-ecosystem--ptrpaws"><a href="https://ptrpa.ws/nixpkgs-actions-abuse">Pwning the Entire Nix Ecosystem</a> &ndash; ptrpaws</h3>
+<p>Github Actions are shockingly insecure (it turns out). I was not aware of this previously, and could easily see myself falling into some of the pitfalls that were exploited here. Ellie (<a href="https://wetdry.world/@ptrpaws">@ptrpaws</a>, the author) used them to gain read/write access to nixpgs, giving them the ability to nuke the entire system from orbit, had they so chosen.</p>
+<p>Supply-chain attacks are so scary - it&rsquo;s so much harder conceptually to treat your build chain with the same security mindset you treat application code (and most developers sadly don&rsquo;t treat that very carefully either!), but really that&rsquo;s the higher-risk attack surface.</p>
+<p>And finally - this kind of &ldquo;not my problem, guv&rdquo; warning from tools is <em>never</em> helpful:</p>
+<blockquote>
+<pre><code>It is not possible for xargs to be used securely
+</code></pre>
+</blockquote>
+<p>taken directly from the <a href="https://man7.org/linux/man-pages/man1/xargs.1.html#:~:text=It%20is%20not%20possible%20for%20xargs%20to%20be%20used%20securely">man page</a>. Sigh. Almost as useless as the legalese telling users not to rely on Tesla&rsquo;s &ldquo;Fully Self Driving&rdquo; system to actually, you know, drive the car.</p>
+<p>If you market the tool as functional, you get zero credit from me for stating in the fine print that a use case is unsupported. Users use the tools you give them, it&rsquo;s on you to make sure it&rsquo;s safe to do so.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="/tags/self-improvement/" class="p-category link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Self-Improvement</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/ai/" class="p-category link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">AI</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/technologies/" class="p-category link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Technologies</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/development-processes/" class="p-category link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Development-Processes</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/ttmmt/" class="p-category link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">TTmmT</a>
+   </li>
+  
+</ul>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'X8X61I96H9');kofiwidget2.draw();</script>
+      <div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/ttmmt-2/">Things that made me think: Digital gardening, web degradation, and digital ghosts</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/ttmmt-1/">Things that made me think: Enshittification, apathy, and discrimination</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/does-my-toaster-love-me/">Does my toaster love me?</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/llm-inevitabilism/">The sound of inevitability</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/saying-the-quiet-part-out-loud/">Saying the quiet part out loud</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/efficiency-is-bad-for-your-health/">&#34;Efficiency&#34; is bad for your health, and your learning</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/offline-knowledge/">Offline knowledge, buses, and note-taking</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/a-quick-guide-for-productive-development/">A quick guide for productive development</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/why-am-i-doing-this-again/">Why am I doing this again?</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+    
+    <span style="display: none">
+    
+      <a class="u-url" href="http://localhost:1313/posts/ttmmt-3/">Things that made me think: Cycle time, learning theory, and build chain security</a>
+    
+      <a rel="author" href="/">Tom Renner</a>
+    </span>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/" >
+    &copy;  My place to put things 2025 
+  </a>
+    <div><div class="ananke-socials"><a href="https://mastodon.social/@trenner" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition mastodon link dib z-999 pt3 pt0-l mr1"
+        title="follow on Mastodon - Opens in a new window"
+        aria-label="follow on Mastodon - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M433 179.11c0-97.2-63.71-125.7-63.71-125.7-62.52-28.7-228.56-28.4-290.48 0 0 0-63.72 28.5-63.72 125.7 0 115.7-6.6 259.4 105.63 289.1 40.51 10.7 75.32 13 103.33 11.4 50.81-2.8 79.32-18.1 79.32-18.1l-1.7-36.9s-36.31 11.4-77.12 10.1c-40.41-1.4-83-4.4-89.63-54a102.54 102.54 0 0 1-.9-13.9c85.63 20.9 158.65 9.1 178.75 6.7 56.12-6.7 105-41.3 111.23-72.9 9.8-49.8 9-121.5 9-121.5zm-75.12 125.2h-46.63v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.33V197c0-58.5-64-56.6-64-6.9v114.2H90.19c0-122.1-5.2-147.9 18.41-175 25.9-28.9 79.82-30.8 103.83 6.1l11.6 19.5 11.6-19.5c24.11-37.1 78.12-34.8 103.83-6.1 23.71 27.3 18.4 53 18.4 175z"/></svg>
+            
+          </span></a><a href="https://github.com/tr325" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition github link dib z-999 pt3 pt0-l mr1"
+        title="follow on GitHub - Opens in a new window"
+        aria-label="follow on GitHub - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+            
+          </span></a><a href="http://linkedin.com/in/tom-renner" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition linkedin link dib z-999 pt3 pt0-l mr1"
+        title="follow on LinkedIn - Opens in a new window"
+        aria-label="follow on LinkedIn - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+            
+          </span></a><a href="" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition orcid link dib z-999 pt3 pt0-l mr1"
+        title="follow on  - Opens in a new window"
+        aria-label="follow on  - Opens in a new window">
+      </a><a href="https://tomrenner.com/index.xml" target="_blank" rel="noopener"
+        class="ananke-social-link link-transition rss link dib z-999 pt3 pt0-l mr1"
+        title="follow on RSS - Opens in a new window"
+        aria-label="follow on RSS - Opens in a new window">
+      <span class="icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
+            
+          </span></a></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+  
+
+</html>

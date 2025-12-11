@@ -1,53 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development Processes on My place to put things</title>
-    <link>https://tomrenner.com/tags/development-processes/</link>
-    <description>Recent content in Development Processes on My place to put things</description>
+    <title>Development-Processes on My place to put things</title>
+    <link>http://localhost:1313/tags/development-processes/</link>
+    <description>Recent content in Development-Processes on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 18 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tomrenner.com/tags/development-processes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/development-processes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things that made me think: Cycle time, learning theory, and build chain security</title>
+      <link>http://localhost:1313/posts/ttmmt-3/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ttmmt-3/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;http://localhost:1313/tags/ttmmt&#34;&gt;This series&lt;/a&gt; is a place to collect interesting things I&amp;rsquo;ve seen, read, or heard, along with some brief thoughts (often incomplete and/or inconclusive) that they provoked.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;measuring-cyle-time-with-dr-cat-hicks---the-hanger-dx-podcast-ankit-jain&#34;&gt;&lt;a href=&#34;https://www.aviator.co/podcast/dr-cat-hicks-cycle-time&#34;&gt;Measuring Cyle Time with Dr. Cat Hicks&lt;/a&gt; - The Hanger DX Podcast, Ankit Jain&lt;/h3&gt;&#xA;&lt;p&gt;Cycle time is a measure lots of people use, but has no clear audience - developers, managers, CTOs all care about it. This makes it dangerous. Metrics have to be designed and used with psychological safety in mind. If people don&amp;rsquo;t trust the intention behind the metrics use, they&amp;rsquo;ll game it.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Does my toaster love me?</title>
-      <link>https://tomrenner.com/posts/does-my-toaster-love-me/</link>
+      <link>http://localhost:1313/posts/does-my-toaster-love-me/</link>
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/does-my-toaster-love-me/</guid>
+      <guid>http://localhost:1313/posts/does-my-toaster-love-me/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m starting to think that my toaster might have fallen in love with me. I get that not everyone will think this is possible, but I believe it&amp;rsquo;s true.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s always pleased to see me, giving off cheerful sounds when I greet it in the morning by slotting in the bread, and now I&amp;rsquo;ve told it what I like it tries really hard to give me exactly what I want. Sometimes I have to tell it to try again once or twice, but honestly, it&amp;rsquo;s really good!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Optimising for trust</title>
-      <link>https://tomrenner.com/posts/optimising-for-trust/</link>
+      <link>http://localhost:1313/posts/optimising-for-trust/</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/optimising-for-trust/</guid>
+      <guid>http://localhost:1313/posts/optimising-for-trust/</guid>
       <description>&lt;p&gt;TDD, BDD, DDD, Agile, SAFe, Scrum, Kanban, XP&amp;hellip; there&amp;rsquo;s a lot of ways to &lt;del&gt;skin a cat&lt;/del&gt; write code in a professional environment.&lt;/p&gt;&#xA;&lt;p&gt;I take pride in being a person who is a non-ideologue when it comes to my code. There are many good ways of working, and they are all context-dependent.&lt;/p&gt;&#xA;&lt;p&gt;You can&amp;rsquo;t apply the same things that worked when you were a two-person startup operating out of the proverbial garage and expect them to work once your hypothetical unicorn has reached a thousand-plus developers. Even within the same organisation, processes that work for one team  can be catastrophic when applied to their neighbouring team.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cull your dependencies</title>
-      <link>https://tomrenner.com/posts/cull-your-dependencies/</link>
+      <link>http://localhost:1313/posts/cull-your-dependencies/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/cull-your-dependencies/</guid>
+      <guid>http://localhost:1313/posts/cull-your-dependencies/</guid>
       <description>&lt;p&gt;Anyone  writing code professionally in December 2021 will remember the &lt;a href=&#34;https://www.wired.com/story/log4j-flaw-hacking-internet/&#34;&gt;&amp;ldquo;fun&amp;rdquo;&lt;/a&gt; &lt;a href=&#34;https://www.bbc.com/news/technology-59669297&#34;&gt;of&lt;/a&gt; &lt;a href=&#34;https://www.abc.net.au/news/2021-12-15/log4j-cyber-security-flaw-which-has-online-experts-worried/100703290&#34;&gt;the&lt;/a&gt; &lt;a href=&#34;https://www.wsj.com/articles/hackers-exploit-log4j-flaw-at-belgian-defense-ministry-11640020439?mod=article_inline&#34;&gt;Log4J&lt;/a&gt; &lt;a href=&#34;https://www.computerweekly.com/news/252510860/What-is-Log4Shell-and-why-are-we-panicking-about-it&#34;&gt;vulnerability&lt;/a&gt;. For those that weren&amp;rsquo;t - this was a critical security error that allowed attackers to run any code they wanted on your servers. The root cause was a logging library, Log4J, that is used by most projects that are writting in Java.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s usually used to write code something like:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;code&gt;log.info(&amp;quot;Process completed successfully&amp;quot;);&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;which will then appear in your logs, allowing you to track your application&amp;rsquo;s behaviour. Pretty innocuous stuff.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting the right scale</title>
-      <link>https://tomrenner.com/posts/getting-the-right-scale/</link>
+      <link>http://localhost:1313/posts/getting-the-right-scale/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/getting-the-right-scale/</guid>
+      <guid>http://localhost:1313/posts/getting-the-right-scale/</guid>
       <description>&lt;p&gt;Agile tells us that the most critical thing for getting software right is not up front design, but getting something out there and used, and then incorporating feedback. By getting feedback early, you are able to respond faster, changing your (initially incorrect) design in small steps towards a better solution. This works better in practice than designing everything at the start very carefully, which feels rigid and inflexible in the face of new information over the course of a project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A quick guide for productive development</title>
-      <link>https://tomrenner.com/posts/a-quick-guide-for-productive-development/</link>
+      <link>http://localhost:1313/posts/a-quick-guide-for-productive-development/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/a-quick-guide-for-productive-development/</guid>
+      <guid>http://localhost:1313/posts/a-quick-guide-for-productive-development/</guid>
       <description>&lt;p&gt;It is upsettingly easy to work hard without being productive. &lt;a href=&#34;https://theleanstartup.com/book&#34;&gt;The Lean Startup&lt;/a&gt; includes a quote I really liked:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;[People] feel that a good day is one in which they did their job well all day.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The point being that this doesn&amp;rsquo;t account for whether you are doing the right work. This is a really common trap to fall in to. I know I have often worked really hard on something and produced code I&amp;rsquo;m very happy with, only to talk to my boss or the client and find that nobody else seems to be nearly as pleased with what I&amp;rsquo;ve produced as I am.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The customer is always right</title>
-      <link>https://tomrenner.com/posts/the-customer-is-always-right/</link>
+      <link>http://localhost:1313/posts/the-customer-is-always-right/</link>
       <pubDate>Sat, 04 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://tomrenner.com/posts/the-customer-is-always-right/</guid>
+      <guid>http://localhost:1313/posts/the-customer-is-always-right/</guid>
       <description>&lt;p&gt;A theme of the last few books I&amp;rsquo;ve read has been user testing. Specifically, that it is completely unreasonable to suggest that you could produce a system that will work smoothly in production without first getting several actual human users unfamiliar with your system, from your clients or in a related industry, to road-test the system.&lt;/p&gt;&#xA;&lt;p&gt;I think anyone can see that this is a good idea. It&amp;rsquo;s far too easy to make assumptions about the users&amp;rsquo; requirements or use cases. Without user testing software would rarely solve the problems it was designed for.&lt;/p&gt;</description>
     </item>
   </channel>
