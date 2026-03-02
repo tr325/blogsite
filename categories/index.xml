@@ -6,6 +6,8 @@
     <description>Recent content in Categories on My place to put things</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
+    <managingEditor>contact@tomrenner.com (Tom Renner)</managingEditor>
+    <webMaster>contact@tomrenner.com (Tom Renner)</webMaster>
     <atom:link href="https://tomrenner.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
