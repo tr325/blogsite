@@ -8,8 +8,22 @@
     <language>en-gb</language>
     <managingEditor>contact@tomrenner.com (Tom Renner)</managingEditor>
     <webMaster>contact@tomrenner.com (Tom Renner)</webMaster>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomrenner.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How-To</title>
+      <link>https://tomrenner.com/tags/how-to/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
+      <guid>https://tomrenner.com/tags/how-to/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologies</title>
+      <link>https://tomrenner.com/tags/technologies/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
+      <guid>https://tomrenner.com/tags/technologies/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>https://tomrenner.com/tags/ai/</link>
@@ -25,14 +39,7 @@
       <description></description>
     </item>
     <item>
-      <title>Technologies</title>
-      <link>https://tomrenner.com/tags/technologies/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
-      <guid>https://tomrenner.com/tags/technologies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Development-Processes</title>
+      <title>Development Processes</title>
       <link>https://tomrenner.com/tags/development-processes/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
       <guid>https://tomrenner.com/tags/development-processes/</guid>
@@ -92,13 +99,6 @@
       <link>https://tomrenner.com/tags/culture/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
       <guid>https://tomrenner.com/tags/culture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How-To</title>
-      <link>https://tomrenner.com/tags/how-to/</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
-      <guid>https://tomrenner.com/tags/how-to/</guid>
       <description></description>
     </item>
     <item>
