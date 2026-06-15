@@ -8,8 +8,43 @@
     <language>en-gb</language>
     <managingEditor>contact@tomrenner.com (Tom Renner)</managingEditor>
     <webMaster>contact@tomrenner.com (Tom Renner)</webMaster>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tomrenner.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://tomrenner.com/tags/ai/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
+      <guid>https://tomrenner.com/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiring</title>
+      <link>https://tomrenner.com/tags/hiring/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
+      <guid>https://tomrenner.com/tags/hiring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Management</title>
+      <link>https://tomrenner.com/tags/management/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
+      <guid>https://tomrenner.com/tags/management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teamwork</title>
+      <link>https://tomrenner.com/tags/teamwork/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
+      <guid>https://tomrenner.com/tags/teamwork/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TTmmT</title>
+      <link>https://tomrenner.com/tags/ttmmt/</link>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
+      <guid>https://tomrenner.com/tags/ttmmt/</guid>
+      <description></description>
+    </item>
     <item>
       <title>How-To</title>
       <link>https://tomrenner.com/tags/how-to/</link>
@@ -25,20 +60,6 @@
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>https://tomrenner.com/tags/ai/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
-      <guid>https://tomrenner.com/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Management</title>
-      <link>https://tomrenner.com/tags/management/</link>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
-      <guid>https://tomrenner.com/tags/management/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Development-Processes</title>
       <link>https://tomrenner.com/tags/development-processes/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
@@ -50,20 +71,6 @@
       <link>https://tomrenner.com/tags/self-improvement/</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
       <guid>https://tomrenner.com/tags/self-improvement/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TTmmT</title>
-      <link>https://tomrenner.com/tags/ttmmt/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
-      <guid>https://tomrenner.com/tags/ttmmt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teamwork</title>
-      <link>https://tomrenner.com/tags/teamwork/</link>
-      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
-      <guid>https://tomrenner.com/tags/teamwork/</guid>
       <description></description>
     </item>
     <item>
@@ -106,13 +113,6 @@
       <link>https://tomrenner.com/tags/careers/</link>
       <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
       <guid>https://tomrenner.com/tags/careers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hiring</title>
-      <link>https://tomrenner.com/tags/hiring/</link>
-      <pubDate>Sat, 13 Mar 2021 00:00:00 +0000</pubDate><author>contact@tomrenner.com (Tom Renner)</author>
-      <guid>https://tomrenner.com/tags/hiring/</guid>
       <description></description>
     </item>
     <item>
